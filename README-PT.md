@@ -15,9 +15,9 @@
 
 ## 🚀 Tecnologias & Ferramentas
 
-- **Frontend:** Angular (v14–17), HTML5, CSS3, TypeScript, RxJS  
+- **Frontend:** Angular, HTML5, CSS3, TypeScript, RxJS  
 - **Backend:** Node.js, Express, APIs REST  
-- **Banco de Dados:** PostgreSQL, SQLite  
+- **Banco de Dados:** PostgreSQL, MySQL 
 - **Hardware:** Arduino, ESP32, Raspberry Pi, integração com sensores e relés  
 - **Controle de Versão & DevOps:** Git, GitHub, GitLab, CI/CD  
 - **Design & UI:** Figma, TailwindCSS, bibliotecas de componentes personalizadas
